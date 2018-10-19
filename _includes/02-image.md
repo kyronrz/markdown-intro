@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of phone] (https://pixabay.com/en/team-team-building-success-computer-3373638/)
