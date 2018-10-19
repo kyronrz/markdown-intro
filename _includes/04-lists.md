@@ -1,0 +1,2 @@
+- programming
+- photography of landscapes and free stock videos
