@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+programming
+photography of landscapes and free stock videos
